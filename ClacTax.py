@@ -1,4 +1,4 @@
-# -*- coding: gbk -*-
+# -*- coding: utf-8 -*-
 class Salary(object):
     TAX_DATA = {
         36000:0.03,
